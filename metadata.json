@@ -1,0 +1,6 @@
+{
+  "name": "VLC Player",
+  "description": "VLC Media Player Clone - A powerful dark-themed video player with signature orange highlights, custom playback controls, automatic controls auto-hide, and a persistable playback history library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
